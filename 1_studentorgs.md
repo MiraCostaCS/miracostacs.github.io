@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Elements
-image: assets/images/pic01.jpg
+title: Student Orgs
+image: assets/images/cscg.png
+description: Get to know our student community
 nav-menu: true
 ---
 

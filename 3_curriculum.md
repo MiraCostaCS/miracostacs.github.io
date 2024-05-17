@@ -1,8 +1,8 @@
 ---
-title: Landing
+title: Curriculum
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/pic07.jpg
+description: ZTC and Culturally Responsive Materials
+image: assets/images/cs-ethnicstudies-logo.png
 nav-menu: true
 ---
 

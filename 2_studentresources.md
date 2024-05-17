@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+title: Student Resources
+description: Info on internships, transfer, etc.
+image: assets/images/ucsd_diamondhacks_sp24.jpg
 nav-menu: true
 ---
 
