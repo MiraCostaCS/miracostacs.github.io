@@ -1,0 +1,26 @@
+{% if 'pages' == site.tiles-source %}
+{% assign courses = site.html_pages %}
+{% endif %}
+
+<section id="two" class="spotlights">
+  {% for course in courses %}
+
+	<section>
+		<a href="{{ course.url | relative_url }}" class="image">
+			<img src="{{ course.image }}" alt="{{ course.title }}" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>{{ course.title }}</h3>
+				</header>
+				<p>{{ course.description }}</p>
+				<ul class="actions">
+					<li><a href="{{ course.url | relative_url }}" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+  {% endfor %}
+</section>
