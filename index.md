@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: 'Welcome to our CS Community!'
 description: null
-image: assets/images/icpc2024.jpg
+image: assets/images/banner.jpg
 author: null
 show_tile: false
 ---

@@ -1,9 +1,12 @@
-{% if 'pages' == site.tiles-source %}
-{% assign courses = site.html_pages %}
+
+<!--
+{% if 'courses' == site.courses-source %}
+    {% assign courses = site.html_pages | where: "layout", "course" | where_exp: "item", "item.show_tile != false" %}
 {% endif %}
+-->
 
 <section id="two" class="spotlights">
-  {% for course in courses %}
+  {% for course in site.courses %}
 
 	<section>
 		<a href="{{ course.url | relative_url }}" class="image">

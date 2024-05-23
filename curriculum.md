@@ -1,6 +1,6 @@
 ---
+layout: curriculum
 title: Curriculum
-layout: landing
 description: ZTC and Culturally Responsive Materials
 image: assets/images/cs-ethnicstudies-logo.png
 nav-menu: true
@@ -28,12 +28,5 @@ nav-menu: true
         </ul>
 	</div>
 </section>
-
-
-    <div id="main">
-        {% include course_banners.html %}
-    </div>
-
-
 
 </div>

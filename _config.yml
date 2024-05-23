@@ -13,6 +13,10 @@ zip_code: 92056
 country: United States of America
 phone: (760) 757-2121
 
+collections:
+  courses:
+    output: true
+
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 4
