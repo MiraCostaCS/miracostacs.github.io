@@ -3,7 +3,7 @@ title: C S
 subtitle: "@ MiraCosta"
 #email: cwalker@miracosta.edu
 description: Learning Resources from Department of Computer Science (CS) @ MiraCosta College
-baseurl: #"/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: / #"/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Nery Chapeton-Lamas
 street_address: 1 Barnard Drive
